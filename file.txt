@@ -1,1 +1,2 @@
 This should add to the fourth line 
+this should be added to the next line in file 
